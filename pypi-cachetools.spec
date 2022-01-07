@@ -17,13 +17,13 @@ BuildRequires : buildreq-distutils3
 Provides: cachetools
 Provides: cachetools-python
 Provides: cachetools-python3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(setuptools)
 BuildRequires : pypi(wheel)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 ========================================================================
