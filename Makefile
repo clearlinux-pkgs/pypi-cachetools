@@ -1,5 +1,5 @@
 PKG_NAME := pypi-cachetools
-URL = https://files.pythonhosted.org/packages/b3/4d/27a3e6dd09011649ad5210bdf963765bc8fa81a0827a4fc01bafd2705c5b/cachetools-5.3.3.tar.gz
+URL = https://files.pythonhosted.org/packages/a7/3f/ea907ec6d15f68ea7f381546ba58adcb298417a59f01a2962cb5e486489f/cachetools-5.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
