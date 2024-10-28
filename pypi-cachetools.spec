@@ -7,7 +7,7 @@
 #
 Name     : pypi-cachetools
 Version  : 5.5.0
-Release  : 85
+Release  : 86
 URL      : https://files.pythonhosted.org/packages/c3/38/a0f315319737ecf45b4319a8cd1f3a908e29d9277b46942263292115eee7/cachetools-5.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c3/38/a0f315319737ecf45b4319a8cd1f3a908e29d9277b46942263292115eee7/cachetools-5.5.0.tar.gz
 Summary  : Extensible memoizing collections and decorators
